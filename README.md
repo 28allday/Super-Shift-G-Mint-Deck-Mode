@@ -1,5 +1,13 @@
 # Super Shift G - Mint Deck Mode
 
+Install video
+
+<p align="center">
+  <a href="https://youtu.be/lwleCvIMuCw">
+    <img src="https://img.youtube.com/vi/lwleCvIMuCw/hqdefault.jpg" width="700">
+  </a>
+</p>
+
 **Version 13.00-mint**
 
 Turn a Linux Mint Cinnamon desktop into a Steam Deck-like gaming console with a single keybind. Press `Super+Shift+G` to enter Gaming Mode (Steam Big Picture in Gamescope), and use Steam's "Exit to Desktop" to return to Cinnamon.
