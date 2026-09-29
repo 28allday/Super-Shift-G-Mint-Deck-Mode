@@ -32,12 +32,12 @@ Switching between modes is seamless — LightDM handles session transitions, and
   - Intel-only systems are **not supported**
   - Intel iGPU + AMD/NVIDIA dGPU configurations work fine
 
-> **Note**: This script is designed specifically for Linux Mint and its stack (Cinnamon, LightDM, NetworkManager, PipeWire). It uses `apt` for package management and builds Gamescope from source as a recent build is not available in Mint repos. It is not intended for Arch-based or Fedora-based distributions — see [Super-Shift-S-Omarchy-Deck-Mode](https://git.no-signal.uk/nosignal/Super-Shift-S-Omarchy-Deck-Mode) for Omarchy/Arch, or [Super-Shift-G-Nobara-Deck-Mode](https://git.no-signal.uk/nosignal/Super-Shift-G-Nobara-Deck-Mode) for Nobara/Fedora.
+> **Note**: This script is designed specifically for Linux Mint and its stack (Cinnamon, LightDM, NetworkManager, PipeWire). It uses `apt` for package management and builds Gamescope from source as a recent build is not available in Mint repos. It is not intended for Arch-based or Fedora-based distributions — see [Super-Shift-S-Omarchy-Deck-Mode](https://github.com/28allday/Super-Shift-S-Omarchy-Deck-Mode) for Omarchy/Arch, or [Super-Shift-G-Nobara-Deck-Mode](https://github.com/28allday/Super-Shift-G-Nobara-Deck-Mode) for Nobara/Fedora.
 
 ## Quick Start
 
 ```bash
-git clone https://git.no-signal.uk/nosignal/Super-Shift-G-Mint-Deck-Mode.git
+git clone https://github.com/28allday/Super-Shift-G-Mint-Deck-Mode.git
 cd Super-Shift-G-Mint-Deck-Mode
 chmod +x super_shift_g_mint.sh
 ./super_shift_g_mint.sh
